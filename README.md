@@ -7,7 +7,7 @@ I developed this project a long time ago and now I am working on a much more adv
 
 At the moment, I do not plan to publish the current project as Public.
 
-To support me and access the whole project, or to run this project together, buy me a coffee and contact me by e-mail.
+To support me and access the whole project, or to develop this project with me, buy me a coffee and contact me by e-mail.
 
 TRC20: TYGLFMC13tuTcfLiga8ajaCQyb4yq8hdfm
 
