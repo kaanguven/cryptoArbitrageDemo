@@ -12,3 +12,5 @@ To support me and access the whole project, or to run this project together, buy
 TRC20: TYGLFMC13tuTcfLiga8ajaCQyb4yq8hdfm
 
 ETH: 0x464106e98257f909c98cf09b630196eaed178446
+
+E-mail: ufukkaan19@gmail.com
