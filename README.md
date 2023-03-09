@@ -15,6 +15,8 @@ Faster order execution for all exchanges.
 
 Changeable difference pct between exchanges.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 I developed this project a long time ago and now I am working on a much more advanced version of it.
 
 At the moment, I do not plan to publish the current project as Public.
